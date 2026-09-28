@@ -1,4 +1,14 @@
+pyrogram==2.0.106
+TgCrypto
+requests
+beautifulsoup4
+pycryptodome
+jwcrypto
+aiohttp
+pycountry
+fake-useragent
 pyrofork==2.3.69
 tgcrypto
 aiohttp
 filetype
+
