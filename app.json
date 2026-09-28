@@ -1,0 +1,11 @@
+{
+  "name": "Terabox Downloader",
+  "description": "A telegram bot to download and upload files from terabox",
+  "repository": "https://github.com/your-username/repo-name",
+  "keywords": ["telegram", "bot", "terabox", "downloader"],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
